@@ -1,3 +1,3 @@
 # cqit
 
-Describe your project here.
+agi at its finest
